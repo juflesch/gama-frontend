@@ -1,0 +1,14 @@
+.container {
+    border: 1px solid grey;
+    align-self: center;
+}
+#msgErro{
+    color: red;
+}
+
+img{
+    height: 80px;
+    width: 70px;
+}
+
+/*     width: 500px;
